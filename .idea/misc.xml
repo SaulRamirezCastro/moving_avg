@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
+  <component name="PyPackaging">
+    <option name="earlyReleasesAsUpgrades" value="true" />
+  </component>
+  <component name="accountSettings">
+    <option name="activeRegion" value="us-east-2" />
+    <option name="recentlyUsedRegions">
+      <list>
+        <option value="us-east-2" />
+      </list>
+    </option>
+  </component>
+</project>
