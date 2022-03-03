@@ -1,0 +1,11 @@
+range_days: -7
+file_name: dataset/historical_stock_prices.csv.gz
+header: True
+stocks:
+  - TWOU
+  - ACIU
+  - ANCX
+  - ANCX
+  - ADRO
+  - AMD
+  - AKRX
