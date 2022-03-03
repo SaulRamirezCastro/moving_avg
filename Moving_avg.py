@@ -156,6 +156,6 @@ class MovingAvg:
         self._get_windows_range()
         df = self._read_file(spark)
         df_filter = self._filter_df(df)
-        df_tmp = self._calculate_moving_avg(df_filter)
-        self._write_csv_data(df_tmp)
+        df_avg = self._calculate_moving_avg(df_filter)
+        self._write_csv_data(df_avg)
         spark.stop()
